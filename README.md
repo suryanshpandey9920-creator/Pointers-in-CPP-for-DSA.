@@ -17,6 +17,5 @@ Pointers contatil ( <u> datatype  * pointer name  =  & variable name) <br> <br>
 
 int a = 20;
 int *pointer = &a ; 
-
-cout << *pointer << endl;
+cout << *pointer << endl; <br> <br>
 this will print the actual value of the variable a. <br>
